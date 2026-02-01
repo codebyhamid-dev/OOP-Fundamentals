@@ -1,3 +1,5 @@
+OOP Fundamentals
+
 This project contains multiple classes and examples showing how OOP principles work in C#. Each OOP pillar is implemented in a separate section, and the code includes comments explaining the logic. By exploring this repository, you will learn:
 
 How to protect and manage data with Encapsulation
