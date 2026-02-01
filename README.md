@@ -44,3 +44,6 @@ The project is organized to demonstrate each OOP pillar separately:
 **Interfaces** – GraduateStudent class demonstrating multiple role implementation
 
 Each folder and class is self-contained, making it easy to explore, understand, and expand with additional examples.
+
+<img width="308" height="643" alt="image" src="https://github.com/user-attachments/assets/78e7b01a-c136-4f17-b90a-3e203bc59212" />
+
